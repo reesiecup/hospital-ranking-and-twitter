@@ -1,0 +1,78 @@
+Mayo_Clinic_handlers
+['@MayoClinic', '@MayoCancerCar', '@MayoClinicSMN', '@mayoclinicjobs', '@MayoClinicPath', '@MayoClinicSO', '@MayoInvents', '@MayoClinicNeuro', '@AmitSoodMD', '@MayoClinicME', '@MayoGynecology', '@MayoClinicPMR', '@MayoEmployees', '@mayoclinicspor', '@EpilepsyCures', '@MayoClinicKids', '@mayocliniclabs', '@MayoClinicHS']
+Cleveland_Clinic_handlers
+['@ClevelandClinic', '@CleveClinicFL', '@DrVes', '@CCAD', '@smlungpathguy', '@BrianDonleyMD', '@ErinMurphyMD', '@NadeenFaza', '@CleveClinicCan', '@ClevClinicHear', '@DrMikeRoizen', '@CCLRI', '@CCBillingHelp', '@SWexner', '@CCF_IMCHIEFS', '@BetsyRaderOH', '@CleClinicMD', '@KristinKirkpa']
+Johns_Hopkins_Hospital_handlers
+['@Andres_Matoso', '@MaxKates', '@DrG_PedsUro', '@DrMihoTanaka', '@brady_urology', '@surgeonweiss', '@allaf_mo', '@ChikeNwabuo', '@thisjenngirl', '@GabySteinhorn', '@DanielleCaci', '@HopkinsMedicin', '@Wes_Ludwig_MD', '@AllChildrens', '@Jillrosen', '@HopkinsMedNews', '@Alistair_MD', '@JohnsHopkins']
+Massachusetts_General_Hospital_handlers
+['@MassGeneralNews', '@meshincubator', '@GeneralHospital', '@ThinkKids', '@MGHSurgery', '@MGHMartinos', '@WmnMentalHealth', '@DrJennyThomas', '@PartnersNews', '@drmbierer', '@MGH_RI', '@BensonHenry', '@MassGov', '@GlobalHealthMGH', '@NancyEtcoff', '@MGHClayCenter', '@MassGeneral', '@homebaseprogram']
+Mass_General_handlers
+['@braintumor', '@MassGeneralCR', '@MGHImaging', '@MGHHeartHealth', '@MGHSurgery', '@MGHKidneys', '@konradjk', '@MassGeneralMDs', '@MassGeneralE', '@MGHMedicin', '@AnupamBJena', '@mgh_htl', '@MassGeneral', '@MGH_RI', '@MassAGO', '@MassTreasury', '@mghfc', '@MGHCancerCenter']
+MGH_handlers
+['@OfficialMgh', '@MGH_8', '@IamLuisGuzman', '@hollingsworthb', '@FIFAWorldCup', '@RobLow', '@CodeBlackCBS', '@Netflixhelps', '@IAmHarryFord', '@NetflixUK', '@MGH_APF', '@netflix', '@fifaworldcup_fr', '@RazaJaffrey', '@mghneurosurg', '@MGHGlobalPsych', '@MGHHeartHealth', '@MGHInsti']
+UCSF_Medical_Center_handlers
+['@UCSF_SpiritCar', '@UCSFHospitals', '@UCSFEvents', '@dianesliwka', '@KayleeKHarris', '@MikeSteinman']
+University_of_Michigan_Hospitals_and_Health_Centers_handlers
+[]
+Michigan_Medicine_handlers
+['@MLabsU', '@UMichAthMed', '@umich_MJ', '@CMU_Medicin', '@EMUSportsMed', '@drmehrarohi', '@jdahlmd', '@TLangkos', '@WMUMedicin', '@LettyLisha63', '@m_imshaug', '@JJA1108', '@UM_OHEI', '@UMichiganE', '@carriemcclin', '@msufamilymed', '@umichmedicin', '@hejewell']
+University_of_Michigan_Health_System_handlers
+['@PHealthySchools', '@sjeder', '@umichmedicin', '@mzaroukian', '@UMHSRehabContEd', '@gmayman']
+UMHS_handlers
+['@UMHS_VikingsLax', '@UM_Cheerleading', '@UMHSbaseball', '@UMHSBoysBBall', '@UMHS2017', '@UMHS2016', '@UMHSstkitts', '@umhsENT', '@umhs2018', '@UMThemeNights', '@UMHS_PRO', '@UMHSKeyClub', '@UMHSRehabContEd', '@VolunteerSvcs', '@UMICHJobs', '@addieloftus', '@UMBearsGuidanc', '@UMichiganE']
+Ronald_Reagan_UCLA_Medical_Center_handlers
+['@anakhasi']
+UCLA_Medical_Center_handlers
+['@HarborUCLAPeds', '@DrBaravarian', '@JCohenMD', '@Batten_PSDLA', '@sanjum', '@anakhasi', '@simisinger', '@michelleskeller']
+New_York-Presbyterian_Hospital_handlers
+['@abrissettemd', '@TdawsonNYP', '@jimhumd', '@nyphospital', '@leah_minni', '@nyppresiden']
+Stanford_Health_Care-Stanford_Hospital_handlers
+[]
+Stanford_University_Medical_Center_handlers
+['@Stanford', '@drdolhun', '@HNSurgeon', '@StanfordMed', '@nsbm7']
+Stanford_Hospital_handlers
+['@Stanfordhosp', '@StanfordMed', '@StartXMed', '@StanfordChild', '@ThomasKlineMD', '@PackardHospital', '@sbgenetics', '@DrTiffanyChao', '@TheaRunyan', '@jonc101x', '@shirleneruns', '@SayraKhandekar']
+Stanford_Health_Care_handlers
+['@StanfordHealth', '@StanfordMedX', '@LaneLibStanford', '@StanfordChild', '@StanfordHP', '@SHCPrid', '@SHC_Careers', '@adityabhasin', '@KTPARKMD', '@jeremy_irvin16', '@carlosolin', '@apathipati', '@kristinanel13', '@belem_rios', '@yablonk', '@mikehegarty', '@eslibi', '@dkowens']
+Hospitals_of_the_University_of_Pennsylvania-Penn_Presbyterian_handlers
+['@UVA', '@GovernorCorb']
+Hospital_of_the_University_of_Pennsylvania_handlers
+['@Penn', '@rdschaller', '@nofishman', '@UVA', '@GovernorCorb']
+HUP_handlers
+['@Afdol_Hutama', '@dylanababo', '@huph', '@DaddyDrex4', '@HUPPlepuff05', '@StackmyBCHup', '@Back_datASHup', '@HupTVC', '@lornabjack', '@HupProductions', '@Mary_zieglerfs', '@HupHollandHup11', '@bethbrynhodg', '@Hup_Holland', '@CCHup15', '@sheersungkar', '@Hup', '@jackflaps']
+Penn_Medicine_handlers
+['@PennMedicin', '@PHCSCareers', '@PennDentalMed', '@PrincetonHealth', '@pennv', '@PennMedAlumni', '@LGHealth', '@DrFerminGarcia', '@PennPathLabMed', '@PennMedMag', '@schlugger', '@PennMDForum', '@PennTrauma', '@PennMedNews', '@mdraugelis', '@rrosin', '@PennMedEVDCSO', '@RainaMerchan']
+Penn_Presbyterian_Medical_Center_handlers
+['@SianFell']
+Cedars-Sinai_Medical_Center_handlers
+['@PhilFleshnerMD', '@DrNimmiKapoor', '@JenAngerMD', '@CedarsUroOncol', '@BJRimelMD', '@InfoSpin', '@bkbuffington', '@NVanGroningenMD', '@alierentonsco', '@DrSonuAhluwalia', '@runforher', '@michelleskeller', '@akinokozo', '@mmlodown']
+Barnes-Jewish_Hospital_handlers
+['@BarnesJewishWs', '@BarnesJewish', '@GoldfarbNursing', '@BJHPres', '@BJCStCharlesCo', '@uropro', '@BetsyARodriguez', '@BJSPH']
+Northwestern_Memorial_Hospital_handlers
+['@StrongerSeniors', '@miketerry55', '@NMHnews']
+NMH_handlers
+['@NMHSinfo', '@Arts_at_NMH', '@NMH_Hoops', '@nmhghockey', '@diggc_nmh', '@denmodo', '@NMH_x', '@NMHHockey', '@auxboardnmh', '@nmh_gvsoccer', '@NMHLax', '@NMH_Wrestling', '@NMHschool', '@the_NMH', '@LindaNMH', '@nmhmedia', '@indivisible_nmh', '@A3Falzon5']
+UPMC_Presbyterian_Shadyside_handlers
+[]
+University_of_Pittsburgh_Medical_Center_handlers
+['@PittTw', '@PittIMChiefs', '@CityPGH', '@AlexDresslerMD', '@JeffRomoffUPMC', '@HamptonPITOK', '@ellisakk']
+UPMC_handlers
+['@UPMC', '@UPMCnews', '@UPMCpolicy', '@UPMCHealthPlan', '@UPMCMyHealth', '@UPMCCareers', '@PittEMSDocs', '@UPMCPhysicianEd', '@UPMCUrgentCar', '@UPMCPinnNews', '@UPMC_G_CREW', '@UPMC_Pinnacl', '@Tatsuya24_N9', '@RasuShrestha', '@UPMCEnterprises', '@UPMCSusquehanna', '@MakeItOurUPMC', '@amaury_upmc']
+University_of_Colorado_Hospital_handlers
+['@coloradogov', '@COwildernessMED', '@DrJenniferWiler', '@uchmedia', '@MedicineCU', '@uchinsider1', '@PRJessDenver']
+Thomas_Jefferson_University_Hospitals_handlers
+['@WBLMD', '@MitulKanzariaMD', '@jeff_sono', '@JeffersonAlumni', '@zrisler', '@praveen520', '@SMLibrary_TJU']
+Jefferson_Health_handlers
+['@JeffersonJCPH', '@AriaHealth', '@AbingtonJeff', '@KennedyHealth', '@JCHSRoanokeVA', '@PortJeffHealth', '@KHACares', '@slittleson', '@anthonywehb', '@AmbulanceGur', '@ChuckPA', '@KimmelCancerCtr', '@TJUHospital', '@ObamacareSaved', '@neilgomes', '@SKCCDirector', '@JeffCoHealthMO', '@JStein_WaPo']
+Duke_University_Hospital_handlers
+['@Duke_ASET', '@mrshandlez', '@GabeStreisfeld', '@DukeU', '@brandongordon']
+Duke_University_Medical_Center_handlers
+['@DrGLunceford', '@TimAmrheinMD', '@AnnReedMD', '@JonRouthPediUro', '@DukeU', '@MatthewDBarber', '@JonPicciniSr', '@JuddMoul', '@OlindaPineda', '@medstay', '@TheHornerLab', '@craig_henman', '@mikenewcomb356']
+Mount_Sinai_Hospital_handlers
+['@MountSinai', '@IndigospiritMSH', '@MountSinaiNYC', '@MiingargiolaMD', '@mshshospitalis', '@alomda_2', '@MSB_Hospital', '@FoodAllergyMD', '@OsteoUHN', '@MountSinaiMiami', '@GLSilvermanMD', '@savbrar', '@ElenaM_Yubero', '@trayd', '@SalSpadafora1', '@LeeShoo', '@bruncar', '@DrSteinbaum']
+NYU_Langone_Medical_Center_handlers
+['@nyu_informatics', '@NYUCVDPreven', '@nyulangon', '@tanejauro', '@RubinHealth', '@dmarch1', '@CRB_EP', '@ACinNYC2K17', '@TomMaldonadoMD', '@MarkPochapin', '@amishpatelmd', '@erinljennings', '@NYUDocs', '@Kathie_JosephMD', '@DrLaPook', '@DrNatalieTV']
+NYU_Medical_Center_handlers
+['@nyu_informatics', '@NYUCVDPreven', '@nyulangon', '@NYUDocs', '@tanejauro', '@DrJBorin', '@CRB_EP', '@DrAndyLi', '@amishpatelmd', '@MarkPochapin', '@drdulchin', '@ArkarupBanerj', '@erinljennings', '@VaxEthicsPolicy', '@NYUWireless', '@CFT1', '@ACinNYC2K17', '@Kathie_JosephMD']
+Mayo_Clinic_Phoenix_handlers
+['@daviddodick', '@MayoClinic']
